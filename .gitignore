@@ -4,3 +4,6 @@
 # Ignore all log files
 *.log
 *.log.*
+
+# Ignore csv files
+*.csv
